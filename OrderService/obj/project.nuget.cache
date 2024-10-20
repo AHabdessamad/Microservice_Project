@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "r0F05ylqyiFOrYcE2Rzyx3iVBEkAw9MbdAgQ26y+RGAesTJF4xzscfP6ErWFfciZmg185q/eInjFRmfunub6oA==",
+  "success": true,
+  "projectFilePath": "/home/abdessamad-ah/Desktop/e-commerce/OrderService/OrderService.csproj",
+  "expectedPackageFiles": [
+    "/home/abdessamad-ah/.nuget/packages/microsoft.aspnetcore.openapi/8.0.8/microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
+    "/home/abdessamad-ah/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/abdessamad-ah/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/abdessamad-ah/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/abdessamad-ah/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/abdessamad-ah/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/abdessamad-ah/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
